@@ -1,0 +1,4 @@
+﻿  headfile.cpp
+c:\users\zyz\desktop\implementation of the expression type\implementation of the expression type\headfile.cpp(210): warning C4172: 返回局部变量或临时变量的地址: node
+  Implementation of the Expression Type.vcxproj -> C:\Users\ZYZ\Desktop\Implementation of the Expression Type\Debug\Implementation of the Expression Type.exe
+  Implementation of the Expression Type.vcxproj -> C:\Users\ZYZ\Desktop\Implementation of the Expression Type\Debug\Implementation of the Expression Type.pdb (Partial PDB)

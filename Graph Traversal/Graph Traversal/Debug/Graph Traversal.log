@@ -1,0 +1,5 @@
+﻿  Graph.cpp
+c:\users\zyz\desktop\graph traversal\graph traversal\graph.cpp(132): warning C4101: “v_weight”: 未引用的局部变量
+c:\users\zyz\desktop\graph traversal\graph traversal\graph.cpp(119): warning C4715: “Locate”: 不是所有的控件路径都返回值
+  Graph Traversal.vcxproj -> C:\Users\ZYZ\Desktop\Graph Traversal\Debug\Graph Traversal.exe
+  Graph Traversal.vcxproj -> C:\Users\ZYZ\Desktop\Graph Traversal\Debug\Graph Traversal.pdb (Partial PDB)
